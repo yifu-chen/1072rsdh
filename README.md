@@ -1,8 +1,11 @@
-#1072輔大宗教-數位文本分析與數位人文
+##1072輔大宗教-數位文本分析與數位人文
+
+[首頁](intro.md) | [課程介紹](intro.md) | [學習資源、工具連結](intro.md) | 
+
 
 單元 | 題目 | 時間（分鐘）|
 ---- | ---- | ----------- |
- 0 | [引言](topic0-intro/intro.md) |  5 |   
+ 0 | [課程公告](topic0-intro/intro.md) |  5 |   
  1 | [從頭開始](topic1-planning/planning.md) |  10 |
  2.1 | [基礎：文本預備](topic2-text/text-prep.md)  |  15 |
  2.2 | [認識 XML](topic2-text/text-prep.md)  |  15 |
