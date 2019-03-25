@@ -1,23 +1,32 @@
-##1072輔大宗教-數位文本分析與數位人文
+## 1072輔大宗教-數位文本分析與數位人文
 
 
-[首頁](intro.md) | [課程介紹](intro.md) | [學習資源、工具連結](intro.md) | 
+[首頁](intro.md) | [課程介紹](intro.md) | [學習資源、工具連結](intro.md) | 共用雲端(https://bit.ly/1072rsdh) | 共用筆記(https://etherpad.net/p/fjudigitaltextanalysis2019)
 
 
-單元 | 題目 | 時間（分鐘）|
----- | ---- | ----------- |
- 0 | [引言](topic0-intro/intro.md) |  5 |   
- 1 | [從頭開始](topic1-planning/planning.md) |  10 |
- 2.1 | [基礎：文本預備](topic2-text/text-prep.md)  |  15 |
- 2.2 | [認識 XML](topic2-text/text-prep.md)  |  15 |
- 3 | [文本分析的基本要素](topic3-analysis/analysis.md)  |  20 |
- &nbsp; | &nbsp;&nbsp;*休息*  |  10 |
- 4 | [計畫管理](topic4-management/management.md)  |  20 |
- 5 | [外界聯繫（一）：展示成果](topic5-visualization/visualization.md)  |  20 |
- 6 | [外界聯繫（二）：使成果更有用](topic6-external/external.md)  |  20 |
- 7 | [進階文本分析](topic7-advanced/advanced.md) |  20 |
- 8 | 討論 Q&A |  20 |
+ 公告 | 內容 |
+------ | ---- |
+ 3/26預備資料 | 請同學準備圖片 |
+ 3/19作業 | 標記練習：請見共用筆記(https://etherpad.net/p/fjudigitaltextanalysis2019)
 
+日期 | 主題 |
+---- | ---- |
 
-### 有用的連結
-* 學Python：[https://www.codeacademy.com](https://www.codeacademy.com)
+02/19 | 課程結構，課程要求，工作分配，引言
+02/26	| 什麼是數位人文？
+03/05 | 數位文本1
+03/12 | 數位文本2
+03/19 | 數位文本與數位典藏
+03/26 | 數位文本分析工具1:基礎
+04/03 | 放假
+04/9 | 數位文本分析工具3:編程
+04/16 | 期中專題報告
+04/23 | 數位文本分析與詮釋1:主題分析
+04/30 | 數位文本分析與詮釋2:分組
+05/07 | 成果視學化方法與工具
+05/14 | 地理資訊系統概論
+05/21 | 數位博物館工具
+05/28 | 網絡分析
+06/04 | 資料連結：Linked (Open) Data
+06/11 | 期末專題報告1
+06/18 | 期末專題報告2
